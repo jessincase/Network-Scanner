@@ -1,0 +1,15 @@
+Nmap scan report for 192.168.1.1
+23/tcp    open  telnet
+80/tcp    open  http
+Nmap scan report for 192.168.1.101
+80/tcp open  http
+Nmap scan report for 192.168.1.103
+80/tcp   open  http
+8008/tcp open  http
+8443/tcp open  https-alt
+Nmap scan report for 192.168.1.104
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+Nmap scan report for 192.168.1.105
+Nmap scan report for 192.168.1.109
